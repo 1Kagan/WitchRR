@@ -1,4 +1,4 @@
-- 👋 Merhaba Ben Kağan flutter geliştiricisiyim.
+- Merhaba Ben Kağan flutter geliştiricisiyim.
 - Kendimi geliştirmek ve kod dünyasına katkı sağlamak için burdayım.
 - Bu günün Junior'ı Geleceğin Senior'ı 
 
